@@ -1,0 +1,28 @@
+.btn-primary {
+  display: inline-block;
+  background-color: #1EDD88;
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: white;
+  transition: 0.3s ease;
+}
+
+.btn-primary:hover {
+  background-color: #18b16c;
+  transform: scale(1.1);
+}
+
+.links i {
+  font-size: 32px;
+  margin: -20px;
+  color: #1EDD88;
+  transition: 0.3s ease;
+
+}
+
+.links:hover i {
+  font-size: 32px;
+  margin: -20px;
+  color: #b2e0cb;
+  transform: scale(1.1);
+}
